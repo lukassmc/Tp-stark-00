@@ -223,7 +223,7 @@ lista_personajes =\
     "altura": "188.00999999999999",
     "peso": "108.94",
     "genero": "M",
-    "color_ojos": "blue",
+    "color_ojos": "Blue",
     "color_pelo": "blond",
     "fuerza": "20",
     "inteligencia": "good"
